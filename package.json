@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/node-hello.git"
+    "url": "git+https://github.com/devops056/nodejs1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnpapa/node-hello/issues"
+    "url": "https://github.com/devops056/nodejs1/issues"
   },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "homepage": "https://github.com/devops056/nodejs1#readme"
 }
