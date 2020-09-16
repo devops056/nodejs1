@@ -6,7 +6,7 @@ const server = http.createServer((req, res) => {
 <<<<<<< HEAD
   const msg = '<h1>Hello Node1234 5678!\n</h1>'
 =======
-  const msg = '<h1>Hello Node1234 56789 101190139!\n</h1>'
+  const msg = '<h1>Hello Node1234 56789 101190139!-git push\n</h1>'
 >>>>>>> 71c53952d917ddfd8a06dba79a34fbfe1412f4b5
   res.end(msg);
 });
